@@ -1,1 +1,102 @@
 
+/* styles.css */
+
+body {
+    margin: 50px;
+}
+
+h1 { 
+    font-size: 35px;
+}
+
+span.text {
+    /* background-color: black; */
+    color: red;
+}
+
+section {
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+}
+
+.tableau-section {
+    margin-top: 20px;
+}
+
+.ace {
+    border: 1px solid black;
+    text-align: center;
+    width: 70px;
+}
+
+.diamond {
+    color: red;
+    border: 1px solid red;
+    text-align: center;
+    width: 70px;
+}
+
+.spade {
+    border: 1px solid black;
+    text-align: center;
+    width: 70px;
+}
+
+.heart {
+    color: red;
+    border: 1px solid red;
+    text-align: center;
+    width: 70px;
+}
+
+/* style for tab */
+.raw00 {
+    width: 200px;
+    border: 1px solid black;
+}
+
+.raw01 {
+    width: 97px;
+    border: 1px solid black;
+}
+
+.raw02 {
+    text-align: center;
+    width: 97px;
+    border: 1px solid black;
+}
+
+.raw03 {
+    text-align: center;
+    width: 97px;
+    border: 1px solid black;
+}
+
+.raw04 {
+    text-align: center;
+    width: 97px;
+    border: 1px solid black;
+}
+
+.raw-x1 {
+    text-align: center;
+    width: 97px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.raw-x2 {
+    text-align: center;
+    width: 97px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.raw-x3 {
+    text-align: center;
+    width: 97px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
