@@ -1,4 +1,4 @@
-# initial-workshop-
+# initial-workshop
 https://hackmd.io/pVC8NfFdSU-hoOCOoWMxaw
 
 Initial Workshop - STEP 2 - Squad 286
